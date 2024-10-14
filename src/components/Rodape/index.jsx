@@ -1,4 +1,4 @@
-import styles from "./rodape.module.css"
+import styles from "./Rodape.module.css"
 
 const Rodape = () => {
     return(
