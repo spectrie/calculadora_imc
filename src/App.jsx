@@ -1,7 +1,7 @@
 import Cabecalho from "./components/Cabecalho"
 import Formulario from "./components/Formulario"
+import Rodape from "./components/Rodape"
 import styles from "./components/Container/container.module.css"
-import Rodape from "./components/rodape/rodape"
 
 function App() {
   return(
