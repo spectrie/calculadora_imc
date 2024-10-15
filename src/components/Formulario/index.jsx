@@ -1,5 +1,5 @@
 import { useState , useEffect} from "react"
-import styles from './Formulario.module.css'
+import styles from './formulario.module.css'
 
 const Formulario = () =>{
     const [altura, setAltura] = useState(0);
